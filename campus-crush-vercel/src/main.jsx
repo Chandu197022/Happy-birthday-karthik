@@ -236,8 +236,8 @@ function App() {
       }
 
       // Fit the entire image inside this box without cropping it.
-      const boxWidth = 130;
-      const boxHeight = 160;
+      const boxWidth = 90;
+      const boxHeight = 110;
       const imageRatio = image.naturalWidth / image.naturalHeight;
       const boxRatio = boxWidth / boxHeight;
 
