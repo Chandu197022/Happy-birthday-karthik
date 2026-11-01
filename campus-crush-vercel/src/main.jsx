@@ -32,7 +32,7 @@ function App() {
 
   useEffect(() => {
     assets.current.bg.src = '/assets/gameplay-reference.png';
-    assets.current.bird.src = '/assets/new-hero.jpg';
+    assets.current.bird.src = '/assets/new-hero.jpeg';
     assets.current.hero.src = '/assets/game-hero.jpg';
   }, []);
 
